@@ -1,6 +1,6 @@
 ---
 title: "Consumer Goods"
-author: "Kratika Sharma, Drake Walker, Krishnasai Sharawant Adiraju"
+author: "Kratika Sharma"
 date: "5/10/2022"
 output:
   html_document:
